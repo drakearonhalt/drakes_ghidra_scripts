@@ -1,4 +1,4 @@
-# drakes_ghidra_scripts
+# ghidra-scripts
 
 ## radare2_import_functions.py
 
